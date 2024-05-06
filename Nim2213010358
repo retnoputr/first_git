@@ -1,0 +1,11 @@
+ */
+
+/**
+ *
+ * @author Amikom Solo
+ */
+public class latihan_git {
+    public static void main(string[] args) {
+        System.out.println("Rahma");
+    }
+}
